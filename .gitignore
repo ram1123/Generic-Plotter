@@ -31,3 +31,4 @@
 *.png
 *.pyc
 *.root
+.*.swp
