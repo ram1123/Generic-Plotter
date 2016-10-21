@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+*.pdf
+*.png
+*.pyc
+*.root
